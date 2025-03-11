@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ASP.NET, C#, NODEJS, ANGULAR. <br>💬 Ask me about anything.
+🔭 I’m currently working on ASP.NET, C#, NODEJS, ANGULAR, REACT AND NEXTJS. <br>💬 Ask me about anything.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nasserfarhat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nasser-farhat-ab33a7166) 
