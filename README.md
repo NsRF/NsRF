@@ -17,10 +17,6 @@ Building scalable platforms with .NET, React, Node.js, and AWS
 
 I design and build production systems — from domain-driven microservices to cloud infrastructure on Kubernetes. Currently focused on fintech and agritech products serving the Brazilian market.
 
-- 🏗️ **US-SAVE PAY** — ERP & multi-rail payments platform (SoftPOS, Pix, cards) for Brazilian SMBs
-- 🌾 **AllFarm** — Agricultural management system running on AWS EKS
-- 🏢 **Intelltech** — My consulting & product company
-
 ---
 
 ### Tech Stack
